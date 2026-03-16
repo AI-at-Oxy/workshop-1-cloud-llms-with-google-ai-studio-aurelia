@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nYxXrhDG)
 # Workshop 1: Cloud Tutor — Gemini 2.5 Flash via LiteLLM
 
 A conversational AI tutor powered by Google's Gemini 2.5 Flash through Google AI Studio's free tier. Same architecture as Lab 4, different model provider.
