@@ -33,8 +33,8 @@ def get_llm_response(messages):
     """Send the full conversation history to the LLM and return its response."""
     try:
         response = completion(
-            model=MODEL,
-            messages=messages,
+            model="gemini/gemini-2.5-flash",
+            messages=messages
         )
         return response.choices[0].message.content
     except Exception as e:
